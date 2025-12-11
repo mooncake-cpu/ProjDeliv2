@@ -36,7 +36,7 @@ if (rs.next()){
 
 <%
 } else {
-    out.print("Sorry! No relevant results.");
+    out.print("Sorry! Noo relevant results.");
 }
 %>
 <a href="success.jsp">Go back</a>
